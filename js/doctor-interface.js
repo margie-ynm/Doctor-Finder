@@ -4,8 +4,9 @@ $(document).ready(function() {
   $('#doctor-search').submit(function(event) {
     event.preventDefault();
     var currentDoctorObject = new Doctor();
-    var symptom = $('#symptom').val();
+    debugger;
+    var medicalIssue = $('#symptom').val();
     $('#symptom').val("");
-    currentDoctorObject.getDoctor(symptom)
+    currentDoctorObject.getDoctor(medicalIssue)
   });
 });
