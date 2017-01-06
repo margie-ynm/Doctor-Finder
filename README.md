@@ -34,8 +34,6 @@ _Github for Margie Nevarez: margie-ynm_
 * _Npm_
 * _Gulp_
 * _Bower_
-* _Postgres_
-* _Active Record_
 
 ### License
 
