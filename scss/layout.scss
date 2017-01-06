@@ -1,7 +1,22 @@
 .doc-info.well {
   list-style-type: none;
+  color: black;
+  border: 2px solid grey;
+  box-shadow: 0 0 15px 5px lightgrey;
+  margin-top: 35px;
 }
 
-.well {
+h1 {
+  text-shadow: 1px 1px black;
+}
+
+.well.info {
+  text-align: center;
+  align-items: center;
+  border: 2px solid black;
+}
+
+.jumbotron {
+  border: 2px solid black;
 
 }
