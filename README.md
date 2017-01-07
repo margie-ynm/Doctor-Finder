@@ -1,6 +1,6 @@
 # _Doctor Finder_
 
-#### _Input medical issue to find doctor, 1/8/2017_
+#### _Input medical issue to find doctor, 1/6/2017_
 
 #### By _**Margie Nevarez**_
 
